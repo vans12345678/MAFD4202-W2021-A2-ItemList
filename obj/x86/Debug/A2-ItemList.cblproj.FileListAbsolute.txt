@@ -1,0 +1,5 @@
+E:\Users\home\source\repos\MAFD 4202\A2-ItemList\bin\x86\Debug\A2_ItemList.exe
+E:\Users\home\source\repos\MAFD 4202\A2-ItemList\bin\x86\Debug\Program1.idy
+E:\Users\home\source\repos\MAFD 4202\A2-ItemList\obj\x86\Debug\A2_ItemList.exe
+E:\Users\home\source\repos\MAFD 4202\A2-ItemList\obj\x86\Debug\Program1.idy
+E:\Users\home\source\repos\MAFD 4202\A2-ItemList\obj\x86\Debug\Program1.obj

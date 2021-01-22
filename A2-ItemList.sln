@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "A2-ItemList", "A2-ItemList.cblproj", "{7D96F711-7F03-48C0-AD01-F2660D89C64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D96F711-7F03-48C0-AD01-F2660D89C64C}.Debug|x86.ActiveCfg = Debug|x86
+		{7D96F711-7F03-48C0-AD01-F2660D89C64C}.Debug|x86.Build.0 = Debug|x86
+		{7D96F711-7F03-48C0-AD01-F2660D89C64C}.Release|x86.ActiveCfg = Release|x86
+		{7D96F711-7F03-48C0-AD01-F2660D89C64C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FE114A-30E1-4BBF-96DA-7330D26B621E}
+	EndGlobalSection
+EndGlobal
